@@ -1,1 +1,1 @@
-web: git clone "https://github.com/EverythingSuckz/TG-FileStreamBot" tgfs && cd tgfs && python -m WebStreamer
+web: git clone "https://github.com/xdwtf/TG-FileStreamBot" tgfs && cd tgfs && python -m WebStreamer
