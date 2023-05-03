@@ -8,3 +8,11 @@ urllib3
 requests
 aiofiles
 apscheduler
+PyDrive
+httplib2==0.15.0
+TgCrypto
+pyrogram
+pymongo[srv]
+AnilistPython
+asyncio
+pyromod
