@@ -1,1 +1,1 @@
-worker: git clone "https://github.com/Nirusaki/GdriveUploaderBot" tgfs && cd tgfs && python3 -m bot
+worker: git clone "https://github.com/dishapatel010/Fheroku" tgvc && cd tgvc && python main.py
